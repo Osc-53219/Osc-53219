@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Osc-53219](https://github.com/Osc-53219)
 
-- 💬 Ask me about **Crypto Mining, Python Automation, and Linux for Hackers**
+- 💬 Ask me about **Mining Crypto, Python Automation, and Linux for Hackers**
 
 - 📫 How to reach me **osanabria007@gmail.com**
 
