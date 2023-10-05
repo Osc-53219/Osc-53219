@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, Python, CI/CD, and AWS**
 
-- 🤝 I’m looking for help with **CI/CD Projects to expand my DevOps Experience**
+- 🤝 I’m looking for help with **AI Projects to expand my AI/ML Experience**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Osc-53219](https://github.com/Osc-53219)
 
